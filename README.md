@@ -1,3 +1,3 @@
 #  O PROJETO ESCOLHIDO FOI O PAC-MAN
-# GRUPO - PIXEL 
-ALUNOS : Tiago Moura,  
+# GRUPO - CÓDIGO
+ALUNOS : Tiago Moura,  William Breno, Jaderson Itamar, 
