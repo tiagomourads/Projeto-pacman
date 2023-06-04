@@ -16,6 +16,7 @@ Vinicius
 
 # Para executar o código
 Será preciso ter instalado no computador os seguintes programas
+
 Primeiro certifique-se de ter o Python 3.11 instalado na máquina
 
 Depois será nessesário um editor de código, pode ser o Pycharm ou VsCode. indicamos esse ultimo
