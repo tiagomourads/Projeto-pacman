@@ -15,11 +15,11 @@ comida = 'X'
 # Posição inicial do Pac-man
 posicao_pacman = [randint(0, largura - 1), randint(0, altura - 1)]
 
-# Posição inicial da comida no tabuleiro
+# Posição inicial da comida no layout
 
 posicao_comida = [randint(0, largura - 1), randint(0, altura - 1)]
 
-# Comando onde a comida vai aparecer aleatoriamente
+# Comando onde a comida vai aparecer aleatoriamente no layout 
 def reposicionar_comida():
     posicao_comida[0] = randint(0, largura - 1)
     posicao_comida[1] = randint(0, altura - 1)
