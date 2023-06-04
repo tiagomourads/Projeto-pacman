@@ -4,10 +4,15 @@
 
 # Alunos:
 Tiago Moura
+
 William Breno
+
 Jaderson Itamar
+
 Severino Graciano
+
 Vinicius
+
 
 # Para executar o código
 Será preciso ter instalado no computador os seguintes programas
