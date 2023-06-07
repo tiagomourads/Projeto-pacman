@@ -25,6 +25,6 @@ caso não tenha encontra-se no site: https://www.python.org/
 • Depois será nessesário um editor de código, pode ser o Pycharm ou VsCode. indicamos o VsCode, segue abaixo o link de apoio
 VsCode: https://code.visualstudio.com/ caso prefira o Pycharm: https://www.jetbrains.com/pt-br/pycharm/
 
-• tendo esses requisitos, o proxímo passo é copiar o código que disponibilizamos no GitHub e colar no editor.
+• Tendo esses requisitos, o proxímo passo é copiar o código que disponibilizamos no GitHub e colar no editor.
 
 • Por ultimo colocar pra executar o código.
