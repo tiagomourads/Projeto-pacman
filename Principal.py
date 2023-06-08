@@ -46,7 +46,7 @@ def mover_pacman():
 
 # Definimos mais uma função para a exibição do Grid
 
-def exibir_layout():
+def exibir_Grid():
     os.system('cls') # Foi importado o (os) para limpar o terminal e só exibir um Grid com o pac-man se movimentando
     for coluna in range(altura):
         for linha in range(largura):
@@ -62,7 +62,7 @@ def exibir_layout():
         print()
 # Esse é o loop principal do jogo,significa que o jogo vai continuar sendo executado até que uma condição seja atendida.
 while True:
-    exibir_layout()
+    exibir_Grid()
     mover_pacman()
 # Quando essa condição for atendida, o jogo começa novamente, por isso chamamos a função reposicionar_comida.
     if posicao_pacman == posicao_comida:
