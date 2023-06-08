@@ -22,9 +22,10 @@
 • Primeiro certifique-se de ter o Python 3.11 instalado na máquina.
 caso não tenha encontra-se no site: https://www.python.org/
 
-• Depois será nessesário um editor de código, pode ser o Pycharm ou VsCode. indicamos o VsCode, segue abaixo o link de apoio
+• Depois será nessesário um editor de código, pode ser o Pycharm ou VsCode. indicamos o VsCode, segue abaixo o link de apoio.
+
 VsCode: https://code.visualstudio.com/ caso prefira o Pycharm: https://www.jetbrains.com/pt-br/pycharm/
 
 • Tendo esses requisitos, o proxímo passo é copiar o código que disponibilizamos no GitHub e colar no editor.
 
-• Por ultimo colocar pra executar o código.
+• Por ultimo colocar para executar o código.
